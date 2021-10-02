@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="231" version="1.1" viewBox="0 0 79.375 61.119" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="a" x1="158.47" x2="-185.48" y1="121.12" y2="415.65" gradientTransform="matrix(.45402 0 0 .48632 -26.096 188.97)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3025e8" offset="0"/>
+<stop stop-color="#3025e8" stop-opacity="0" offset="1"/>
+</linearGradient>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g transform="matrix(1 0 0 1.006 0 -237.67)">
+<path d="m0 236.14v60.855s22.29-9.0264 33.979-6.1146c11.689 2.9117 20.659 6.1146 28.814 6.1146s16.582-3.7853 16.582-3.7853v-57.07z" fill="url(#a)"/>
+</g>
+</svg>
